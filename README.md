@@ -1,5 +1,5 @@
 - Hi, I'm Joseph, W3MBG. I’m interested in projects relating to ham radio.
-- Just now beginning my coding journey, and currently learning some arduino programming.
+- Just now beginning my coding journey, and currently playing with c++ and arduino.
 - Contact me at W3MBG@protonmail.com
 
 <!---
